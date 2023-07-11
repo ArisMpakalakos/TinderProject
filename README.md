@@ -1,2 +1,1 @@
-# TinderProject
-Website project
+TinDog Starting Files
